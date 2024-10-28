@@ -1,0 +1,169 @@
+Categoria: doce
+Bolo de Chocolate
+Ingredientes:
+ 2 xícaras de farinha
+ 1 xícara de açúcar
+ 1/2 xícara de chocolate em pó
+ 1/2 xícara de óleo
+ 2 ovos
+ 1 xícara de leite
+ 1 colher de sopa de fermento em pó
+
+Instrucoes:
+ Misture todos os ingredientes.
+ Asse em forno pré-aquecido a 180 graus por 30 minutos.
+
+---
+
+Categoria: salgada
+Pasta de Frango
+Ingredientes:
+ 1 kg de peito de frango
+ 1 cebola picada
+ 2 dentes de alho picados
+ Sal e pimenta a gosto
+
+Instrucoes:
+ Cozinhe o frango e desfie.
+ Refogue a cebola e o alho, adicione o frango e tempere.
+
+---
+
+Categoria: salgada
+Lasanha de Carne
+Ingredientes:
+ 500g de massa para lasanha
+ 500g de carne moída
+ 2 xícaras de molho de tomate
+ 300g de queijo muçarela
+ 200g de presunto
+ Sal e pimenta a gosto
+
+Instrucoes:
+ Cozinhe a massa da lasanha conforme as instruções da embalagem.
+ Refogue a carne moída, adicione o molho de tomate e tempere.
+ Em uma travessa, faça camadas de massa, carne, presunto e queijo.
+ Asse em forno pré-aquecido a 180 graus por 20 minutos.
+
+---
+
+Categoria: doce
+Torta de Limão
+Ingredientes:
+ 1 pacote de biscoito maisena
+ 100g de manteiga derretida
+ 1 lata de leite condensado
+ Suco de 2 limões
+ Raspas de limão para decorar
+
+Instrucoes:
+ Triture os biscoitos e misture com a manteiga para formar a base.
+ Pressione a mistura no fundo de uma forma e leve à geladeira.
+ Misture o leite condensado com o suco de limão e coloque sobre a base.
+ Decore com raspas de limão e leve à geladeira por 2 horas antes de servir.
+
+---
+
+Categoria: doce
+Pudim de Leite
+Ingredientes:
+1 lata de leite condensado
+2 latas de leite
+3 ovos
+
+Instrucoes:
+Bata tudo no liquidificador. 
+Asse em banho-maria.
+
+---Categoria: salgada
+Macarrao Simples
+Ingredientes:
+250g de macarr�o (espaguete ou penne)
+
+2 colheres de sopa de azeite de oliva
+
+2 dentes de alho (picados)
+
+Sal a gosto
+
+Pimenta-do-reino a gosto
+
+Queijo ralado (opcional, para servir)
+Instrucoes:
+Cozinhe o macarr�o em �gua salgada fervente at� ficar al dente. Escorra e reserve.
+
+Em uma frigideira, aque�a o azeite de oliva em fogo m�dio. Adicione o alho picado e refogue por 1-2 minutos, at� ficar dourado.
+
+Adicione o macarr�o cozido � frigideira e misture bem para incorporar o alho e o azeite.
+
+Tempere com sal e pimenta-do-reino a gosto.
+
+Sirva quente, polvilhado com queijo ralado, se desejar.
+
+---
+
+Categoria: doce
+Brigadeiro
+Ingredientes:
+1 lata de leite condensado
+
+2 colheres de sopa de chocolate em p�
+
+1 colher de sopa de manteiga
+
+Granulado para enrolar
+Instrucoes:
+Em uma panela, coloque o leite condensado, o chocolate em p� e a manteiga.
+
+Cozinhe em fogo m�dio, mexendo sempre, at� a mistura desgrudar do fundo da panela (cerca de 10 a 15 minutos).
+
+Transfira a mistura para um prato untado com manteiga e deixe esfriar.
+
+Quando estiver morno, unte as m�os com manteiga e enrole pequenas por��es da massa em bolinhas.
+
+Passe as bolinhas no granulado e coloque em forminhas de papel.
+
+---
+
+Categoria: salgada
+Pao de Queijo
+Ingredientes:
+1 xicara de polvilho doce
+
+1/2 xicara de leite
+
+1/4 xicara de oleo
+
+1 ovo
+
+100g de queijo ralado (mussarela ou parmesao)
+
+Sal a gosto
+Instrucoes:
+Preaqueca o forno a 180°C.
+
+Em uma tigela, misture todos os ingredientes ate formar uma massa homogonea.
+
+Com as maos, forme bolinhas do tamanho de uma colher de sopa.
+
+Coloque as bolinhas em uma assadeira untada e asse por cerca de 20-25 minutos ou ate que fiquem levemente douradas.
+
+---
+Categoria: doce
+receita teste
+Ingredientes:
+blablabla
+Instrucoes:
+tiririm tchorororom
+
+---
+
+Categoria: salgada
+receita teste2
+Ingredientes:
+123
+Instru��es:
+456
+
+---
+
