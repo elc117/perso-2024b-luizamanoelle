@@ -1,4 +1,4 @@
-# Let Him Cook (Site de Receitas) - Paradigmas de Programação
+# Let Him Cook (Site de Receitas)
 ## Identificação
 
 - **Nome:** Luiza Manoelle dos Santos
@@ -115,4 +115,5 @@ Neste projeto, foram implementadas diversas melhorias na interface para proporci
 Essas melhorias visam criar uma interface mais envolvente e facilitar a interação do usuário com o site.
 
 Obs: Como aluna, me surpreendi ao ver como Haskell, com a ajuda da biblioteca Scotty, pode ser usada para construir funcionalidades de um site, algo que antes eu jamais imaginaria.
+
 :)
