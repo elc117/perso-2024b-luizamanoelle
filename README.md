@@ -1,3 +1,4 @@
+# Let Him Cook (Site de Receitas) - Paradigmas de Programação
 ## Identificação
 
 - **Nome:** Luiza Manoelle dos Santos
@@ -112,3 +113,6 @@ Neste projeto, foram implementadas diversas melhorias na interface para proporci
 6. **Seções Claras**: O uso de títulos e seções bem definidas melhora a organização das informações, facilitando a navegação e a busca por receitas específicas.
 
 Essas melhorias visam criar uma interface mais envolvente e facilitar a interação do usuário com o site.
+
+Obs: Como aluna, me surpreendi ao ver como Haskell, com a ajuda da biblioteca Scotty, pode ser usada para construir funcionalidades de um site, algo que antes eu jamais imaginaria.
+:)
